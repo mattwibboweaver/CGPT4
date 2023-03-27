@@ -1,0 +1,4 @@
+/.pytest_cache
+/.streamlit
+/.vscode
+/__pycache__
